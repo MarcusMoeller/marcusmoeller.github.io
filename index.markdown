@@ -5,10 +5,6 @@
 layout: home
 ---
 
-# Torben
-
-# Lise
-
 <iframe src="/flowers.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -18,15 +14,6 @@ layout: home
     frameborder="0">
 </iframe>
 
-Flower
-
-# Torben
-
-## Torben1
-
-Torben2
-
-Joan elsker sine katte
 
 <iframe src="/torben.png"
     sandbox="allow-same-origin allow-scripts"
