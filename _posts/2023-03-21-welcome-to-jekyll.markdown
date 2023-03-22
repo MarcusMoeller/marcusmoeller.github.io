@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Lige meget"
+title:  "San Francisco Police *fniser*"
 date:   2023-03-21 14:09:56 +0100
 categories: jekyll update
 ---
 
-# About the data
-
-Insert text here
-
-# Time-series / bar chart
-
-Insert figure and text here
-
-
-# Map
-
-Insert figure and text here
-
-
-# Bokeh viz
+# This is the main page
 
 <iframe src="/flowers.html"
     sandbox="allow-same-origin allow-scripts"
@@ -30,7 +16,10 @@ Insert figure and text here
     frameborder="0">
 </iframe>
 
-Insert text here
+
+## sut din mor allan
+
+Hej jeg hedder joan
 
 
-# Conclusion or some closing remarks?
+
