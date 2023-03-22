@@ -5,7 +5,21 @@
 layout: home
 ---
 
-# This is the main page
+# About the data
+
+Insert text here
+
+# Time-series / bar chart
+
+Insert figure and text here
+
+
+# Mappp
+
+Insert figure and text here
+
+
+# Bokeh viz
 
 <iframe src="/flowers.html"
     sandbox="allow-same-origin allow-scripts"
@@ -16,9 +30,9 @@ layout: home
     frameborder="0">
 </iframe>
 
+Insert text here
 
-## sut din mor allan
 
-Hej jeg hedder joan
+# Conclusion or some closing remarks?
 
 
