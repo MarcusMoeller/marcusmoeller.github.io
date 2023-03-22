@@ -27,6 +27,14 @@ Insert figure and text here
 
 Insert figure and text here
 
+<iframe src="/heat_map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 # Bokeh viz
 
