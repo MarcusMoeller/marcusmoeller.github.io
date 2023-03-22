@@ -5,7 +5,21 @@ date:   2023-03-21 14:09:56 +0100
 categories: jekyll update
 ---
 
-# This is the main page
+# About the data
+
+Insert text here
+
+# Time-series / bar chart
+
+Insert figure and text here
+
+
+# Map
+
+Insert figure and text here
+
+
+# Bokeh viz
 
 <iframe src="/flowers.html"
     sandbox="allow-same-origin allow-scripts"
@@ -16,10 +30,9 @@ categories: jekyll update
     frameborder="0">
 </iframe>
 
+Insert text here
 
-## sut din mor allan
 
-Hej jeg hedder joan
-
+# Conclusion or some closing remarks?
 
 
