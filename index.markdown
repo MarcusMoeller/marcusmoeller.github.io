@@ -14,7 +14,7 @@ Insert text here
 Insert figure and text here
 
 
-# Mappp123456789
+# Map
 
 Insert figure and text here
 
