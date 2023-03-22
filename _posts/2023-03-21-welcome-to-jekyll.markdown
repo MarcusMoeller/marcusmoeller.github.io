@@ -7,14 +7,14 @@ categories: jekyll update
 
 # About the data
 
-Insert text here
+Insert text heree
 
 # Time-series / bar chart
 
 Insert figure and text here
 
 
-# Mappp
+# Map
 
 Insert figure and text here
 
