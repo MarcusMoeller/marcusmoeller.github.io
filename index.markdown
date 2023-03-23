@@ -5,13 +5,13 @@
 layout: home
 ---
 
-# About the data
+# About the dataereer
 
 Insert text here
 
 # Time-series / bar chart
 
-<iframe src="/marcusmoeller.github.io/barplot.png"
+<iframe src="/screenbar.png"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
