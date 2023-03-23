@@ -11,7 +11,7 @@ Insert text here
 
 # Time-series / bar chart
 
-![Book logo](/barplot.png)
+![Book logo](/marcusmoeller.github.io/barplot.png)
 
 
 Insert text here
