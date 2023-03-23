@@ -5,13 +5,21 @@
 layout: home
 ---
 
-# About the dataaaa
+# About the data
 
 Insert text here
 
 # Time-series / bar chart
 
-![Book logo](/marcusmoeller.github.io/barplot.png)
+<iframe src="/marcusmoeller.github.io/barplot.png"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 
 
 Insert text here
