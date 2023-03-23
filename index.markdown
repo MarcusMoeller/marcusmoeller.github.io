@@ -13,8 +13,8 @@ Insert text here
 
 <iframe src="/screenbar.png"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="5000"
+    width="200"
+    height="100"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
