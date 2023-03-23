@@ -11,14 +11,8 @@ Insert text here
 
 # Time-series / bar chart
 
-<iframe src="/barplot.png"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+![bar plot](/barplot.png)
+
 
 Insert text here
 
@@ -40,8 +34,8 @@ Insert text here
 
 <iframe src="/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
+    width="90%"
+    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
