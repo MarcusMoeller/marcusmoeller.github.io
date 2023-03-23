@@ -11,12 +11,21 @@ Insert text here
 
 # Time-series / bar chart
 
-Insert figure and text here
+<iframe src="/barplot.png"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+Insert text here
 
 
 # Map
 
-<iframe src="/test.html"
+<iframe src="/heatmap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
@@ -25,20 +34,11 @@ Insert figure and text here
     frameborder="0">
 </iframe>
 
-Insert figure and text here
-
-<iframe src="/heat_map.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+Insert text here
 
 # Bokeh viz
 
-<iframe src="/flowers.html"
+<iframe src="/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
