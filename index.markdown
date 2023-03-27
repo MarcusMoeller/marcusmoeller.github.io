@@ -13,8 +13,8 @@ This data story covers historical police department incident reports from 2006-2
 
 <iframe src="/timeseries.png"
     sandbox="allow-same-origin allow-scripts"
-    width="2000"
-    height="1000"
+    width="1200"
+    height="800"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -56,8 +56,8 @@ Try to scroll closer to this dense area of dots!
 
 <iframe src="/bokeh1.html"
     sandbox="allow-same-origin allow-scripts"
-    width="600"
-    height="600"
+    width="1200"
+    height="800"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
