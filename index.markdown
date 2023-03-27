@@ -54,9 +54,9 @@ Try to scroll closer to this dense area of dots!
 
 # Bokeh viz
 
-<iframe src="/bokeh.html"
+<iframe src="/bokeh1.html"
     sandbox="allow-same-origin allow-scripts"
-    width="90%"
+    width="600"
     height="600"
     scrolling="no"
     seamless="seamless"
