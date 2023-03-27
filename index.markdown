@@ -31,6 +31,10 @@ The overall tendency throughout the entire city is that drug related crimes are 
 
 # Heat Map
 
+On the following heat map, you can see where the drug/narcotic crimes occur in an hourly pattern throughout the day. All occurrences during each hour are aggregated which corresponds to each frame in the visualization. Hence, frame 1 corresponds to all occurrences that happened between 01:00 and 01:59 and so forth. You are able to play the video chronologically or in a reversed manner as well as navigate through each frame. The frames per second can also be adjusted and it is possible to drag and zoom in and out on the map.
+It looks like there is a more dense area of occurrences in a neighborhood in the northeastern part of San Francisco.
+Try to scroll closer to this dense area of dots!
+
 <iframe src="/heatmap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -40,13 +44,7 @@ The overall tendency throughout the entire city is that drug related crimes are 
     frameborder="0">
 </iframe>
 
-This is the Tenderloin district which confirms our numbers in the time-series plot.
-The occurrences are distributed across every street in this area where most occurrences happen during waking hours. Can the higher amount of registered reports be explained by the increased police presence during the daytime?
-
-
-On the following map, you can see where the drug/narcotic crimes occur in an hourly pattern throughout the day. All occurrences during each hour are aggregated which corresponds to each frame in the visualization. Hence, frame 1 corresponds to all occurrences that happened between 01:00 and 01:59 and so forth. You are able to play the video chronologically or in a reversed manner as well as navigate through each frame. The frames per second can also be adjusted and it is possible to drag and zoom in and out on the map.
-It looks like there is a more dense area of occurrences in a neighborhood in the northeastern part of San Francisco.
-Try to scroll closer to this dense area of dots!
+This is the Tenderloin district which confirms the point made in the previous section. The occurrences are distributed across every street in this area where most occurrences happen during waking hours. Can the higher amount of registered reports be explained by the increased police presence during the daytime?
 
 
 # Drug-related types of crime
@@ -68,7 +66,7 @@ Furthermore, the bar chart shows us that possession of drugs is the crime type w
 
 # Conclusion
 
-The data has taught us that some districts have been more affected, some hours are busier, and that some drugs are more prevalent. All these are facts that the SFPD can use to optimize their police force for both prevention and treatment of crime. Some of the initiatives which the SFPD have reported throughout the years have been numerous <a href="https://www.sanfranciscopolice.org/search?search=drug%20crimes&type=All&page=2"> sobriety checkpoints</a>, where the police systematically checks drivers for DUIs. Furthermore, the police has taken part in several prescription drug <a href="https://www.sanfranciscopolice.org/news/sfpd-nationwide-prescription-drug-take-back-day-nets-over"> "Take back" days</a>, where citizens are able to safely and securely get rid of unwanted prescription drugs. Lastly, the SFPD has initiated different more specific initiatives to fight the drug-related crimes throughout the city, such as the <a href="https://www.sanfranciscopolice.org/news/sfpd-announces-opiate-overdose-prevention-program"> Opiate Overdose Prevention Program</a>, which turned out to be a success according to the <a href="https://www.sanfranciscopolice.org/news/sfpd-experiences-continued-success-opiate-overdose-reversals"> SFPD news</a>.
+The data has taught us that some districts have been more affected, some hours are busier, and that some drugs are more prevalent. All these are facts that the SFPD can use to optimize their police force for both prevention and treatment of crime. Some of the initiatives which the SFPD have reported throughout the years have been numerous <a href="https://www.sanfranciscopolice.org/search?search=drug%20crimes&type=All&page=2"> sobriety checkpoints</a>, where the police systematically checks drivers for DUIs. Furthermore, the police has taken part in several prescription drug <a href="https://www.sanfranciscopolice.org/news/sfpd-nationwide-prescription-drug-take-back-day-nets-over"> "Take back" days</a>, where citizens are able to safely and securely get rid of unwanted prescription drugs. Lastly, the SFPD has initiated more specific initiatives to fight the drug-related crimes throughout the city, such as the <a href="https://www.sanfranciscopolice.org/news/sfpd-announces-opiate-overdose-prevention-program"> Opiate Overdose Prevention Program</a>, which turned out to be a success according to the <a href="https://www.sanfranciscopolice.org/news/sfpd-experiences-continued-success-opiate-overdose-reversals"> SFPD news</a>.
 
 The data and the SFPD report have shown that the San Francisco Police Department has managed to decrease the amount of drug-related crimes in the city from its peak around 2008 until 2017.
 
