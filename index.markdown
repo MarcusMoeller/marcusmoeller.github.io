@@ -11,10 +11,10 @@ This data story covers historical police department incident reports from 2006-2
 
 # Time-series / bar chart
 
-<iframe src="/timeseries.png"
+<iframe src="/barplot1.png"
     sandbox="allow-same-origin allow-scripts"
     width="1200"
-    height="800"
+    height="1500"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
